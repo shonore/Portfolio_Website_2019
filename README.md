@@ -18,7 +18,9 @@
 [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
 
-# albinotonnina.com
+# smhonore.com
+
+# Template by Albino Tonnina
 
 ## Overview
 

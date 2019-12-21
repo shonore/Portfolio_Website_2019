@@ -22,7 +22,7 @@
 
 ## Overview
 
-Src files for [www.albinotonnina.com](http://www.albinotonnina.com)
+Src files for [www.smhonore.com](http://www.smhonore.com)
 
 ## Install
 	$ npm install
@@ -43,6 +43,6 @@ Src files for [www.albinotonnina.com](http://www.albinotonnina.com)
 ### Bundle analysis
 	$ npm run stats
 
-[check the online report](http://www.albinotonnina.com/report.html) (bundle size: 150kb gzipped, including svgs)
+[check the online report](http://www.smhonore.com/report.html) (bundle size: 150kb gzipped, including svgs)
 
 

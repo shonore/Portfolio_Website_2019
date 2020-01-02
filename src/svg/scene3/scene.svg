@@ -372,7 +372,7 @@
 	</g>
 </g>
 <g id="title">
-	<text id="texttitle" transform="matrix(1 0 0 1 512.931 -322.0194)" fill="#F5F7FA" font-family="'Roboto-Thin'" font-size="36px">At work, I do:</text>
+	<text id="texttitle" transform="matrix(1 0 0 1 512.931 -322.0194)" fill="#F5F7FA" font-family="'Roboto-Thin'" font-size="36px">What I do:</text>
 </g>
 <path id="wire3" fill="none" stroke="#DBDBDB" stroke-miterlimit="10" enable-background="new    " d="M1169.1-370.2l-3.8,2.2
 	c-21.2,19.3-38.9,40.8-57.3,62.4c-20.9,24.4-50.5,40.6-81.1,49.3c-34.8,9.9-71.5,11-107.6,9.3c-19.7-1-40.4-2.6-58.4,5.5
@@ -426,11 +426,11 @@
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 1213.1407 253.3192)" fill="#ECF0F1" font-family="'Roboto-Light'" font-size="18px">Estimating / Strategy / Planning</text>
-			<text transform="matrix(1 0 0 1 1213.1407 304.8857)" fill="#ECF0F1" font-family="'Roboto-Light'" font-size="18px">Client relationship</text>
+			<text transform="matrix(1 0 0 1 1213.1407 304.8857)" fill="#ECF0F1" font-family="'Roboto-Light'" font-size="18px">Stakeholder relationship</text>
 			<text transform="matrix(1 0 0 1 1265.2545 295.2821)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21px"> </text>
 			<text transform="matrix(1 0 0 1 1325.3737 295.2821)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21px"> </text>
 		</g>
-		<text transform="matrix(1 0 0 1 1213.1407 278.8857)" fill="#ECF0F1" font-family="'Roboto-Light'" font-size="18px">Mentoring, Team Leading</text>
+		<text transform="matrix(1 0 0 1 1213.1407 278.8857)" fill="#ECF0F1" font-family="'Roboto-Light'" font-size="18px">Agile Scrum, Team Organization</text>
 	</g>
 </g>
 </svg>

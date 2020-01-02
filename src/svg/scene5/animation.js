@@ -46,7 +46,7 @@ export default {
 
     const videoPlayerIframe = utils.createElementWithAttrs('iframe', {
       id: 'vimeoPlayer',
-      src: '//player.vimeo.com/video/88016428',
+      src: 'https://www.youtube.com/embed/xm90ymSUmpE',
       width: '100%',
       height: '100%',
       frameborder: '0',

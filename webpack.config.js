@@ -31,8 +31,8 @@ module.exports = function (env = {}) {
         ]
       }),
       new FaviconsWebpackPlugin({
-        logo: './src/images/logo.png',
-        title: 'albinotonnina.com'
+        logo: './src/images/logo.svg',
+        title: 'smhonore.com'
       })
     ]
 
